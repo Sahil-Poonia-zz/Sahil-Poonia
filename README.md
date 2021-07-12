@@ -7,4 +7,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-poonia&show_icons=true&theme=tokyonight&locale=en" alt="sahil-poonia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-poonia&theme=dark" alt="sahil-poonia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-poonia&theme=dark" alt="sahil-poonia" /></p>
