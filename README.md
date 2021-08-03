@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">I'm interested in Web Penetration Testing 🌐 | Linux 🐧 | Anime 👾</h3>
 
 <img align="left" src="https://api.daily.dev/devcards/2547b70d36244d37ad6840cdae6b0cf0.png?r=x5k" width="300" alt="Sahil's Dev Card"/>
 
